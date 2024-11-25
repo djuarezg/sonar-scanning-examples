@@ -1,0 +1,1 @@
+/home/daniel.juarez/Development/dotnetcore-docs-hello-world/.sonarqube/out/0

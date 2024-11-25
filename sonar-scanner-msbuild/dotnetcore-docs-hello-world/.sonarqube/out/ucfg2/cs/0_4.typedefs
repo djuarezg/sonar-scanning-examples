@@ -1,0 +1,8 @@
+÷
+!dotnetcoresample.Pages.ErrorModel-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectÌ
+SErrorModel(Microsoft.Extensions.Logging.ILogger<dotnetcoresample.Pages.ErrorModel>)udotnetcoresample.Pages.ErrorModel.ErrorModel(Microsoft.Extensions.Logging.ILogger<dotnetcoresample.Pages.ErrorModel>)4
+OnGet())dotnetcoresample.Pages.ErrorModel.OnGet()@
+RequestId.get/dotnetcoresample.Pages.ErrorModel.RequestId.get@
+RequestId.set/dotnetcoresample.Pages.ErrorModel.RequestId.setH
+ShowRequestId.get3dotnetcoresample.Pages.ErrorModel.ShowRequestId.getH
+ShowRequestId.set3dotnetcoresample.Pages.ErrorModel.ShowRequestId.set

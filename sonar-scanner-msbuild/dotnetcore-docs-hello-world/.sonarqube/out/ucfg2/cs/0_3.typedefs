@@ -1,0 +1,4 @@
+í
+#dotnetcoresample.Pages.PrivacyModel-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectÖ
+WPrivacyModel(Microsoft.Extensions.Logging.ILogger<dotnetcoresample.Pages.PrivacyModel>){dotnetcoresample.Pages.PrivacyModel.PrivacyModel(Microsoft.Extensions.Logging.ILogger<dotnetcoresample.Pages.PrivacyModel>)6
+OnGet()+dotnetcoresample.Pages.PrivacyModel.OnGet()

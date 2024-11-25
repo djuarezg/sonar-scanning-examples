@@ -1,0 +1,18 @@
+È	
+"dotnetcoresample.Pages.Pages_Index(Microsoft.AspNetCore.Mvc.RazorPages.Page,Microsoft.AspNetCore.Mvc.RazorPages.PageBase,Microsoft.AspNetCore.Mvc.Razor.RazorPageBaseobjectC
+ExecuteAsync()1dotnetcoresample.Pages.Pages_Index.ExecuteAsync()A
+Pages_Index()0dotnetcoresample.Pages.Pages_Index.Pages_Index()]
+ModelExpressionProvider.get>dotnetcoresample.Pages.Pages_Index.ModelExpressionProvider.get]
+ModelExpressionProvider.set>dotnetcoresample.Pages.Pages_Index.ModelExpressionProvider.set5
+Url.get*dotnetcoresample.Pages.Pages_Index.Url.get5
+Url.set*dotnetcoresample.Pages.Pages_Index.Url.setA
+Component.get0dotnetcoresample.Pages.Pages_Index.Component.getA
+Component.set0dotnetcoresample.Pages.Pages_Index.Component.set7
+Json.get+dotnetcoresample.Pages.Pages_Index.Json.get7
+Json.set+dotnetcoresample.Pages.Pages_Index.Json.set7
+Html.get+dotnetcoresample.Pages.Pages_Index.Html.get7
+Html.set+dotnetcoresample.Pages.Pages_Index.Html.set?
+ViewData.get/dotnetcoresample.Pages.Pages_Index.ViewData.get?
+ViewData.set/dotnetcoresample.Pages.Pages_Index.ViewData.set9
+	Model.get,dotnetcoresample.Pages.Pages_Index.Model.get9
+	Model.set,dotnetcoresample.Pages.Pages_Index.Model.set

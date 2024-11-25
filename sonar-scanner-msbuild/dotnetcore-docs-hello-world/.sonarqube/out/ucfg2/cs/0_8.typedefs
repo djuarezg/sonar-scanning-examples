@@ -1,0 +1,18 @@
+î	
+$dotnetcoresample.Pages.Pages_Privacy(Microsoft.AspNetCore.Mvc.RazorPages.Page,Microsoft.AspNetCore.Mvc.RazorPages.PageBase,Microsoft.AspNetCore.Mvc.Razor.RazorPageBaseobjectE
+ExecuteAsync()3dotnetcoresample.Pages.Pages_Privacy.ExecuteAsync()G
+Pages_Privacy()4dotnetcoresample.Pages.Pages_Privacy.Pages_Privacy()_
+ModelExpressionProvider.get@dotnetcoresample.Pages.Pages_Privacy.ModelExpressionProvider.get_
+ModelExpressionProvider.set@dotnetcoresample.Pages.Pages_Privacy.ModelExpressionProvider.set7
+Url.get,dotnetcoresample.Pages.Pages_Privacy.Url.get7
+Url.set,dotnetcoresample.Pages.Pages_Privacy.Url.setC
+Component.get2dotnetcoresample.Pages.Pages_Privacy.Component.getC
+Component.set2dotnetcoresample.Pages.Pages_Privacy.Component.set9
+Json.get-dotnetcoresample.Pages.Pages_Privacy.Json.get9
+Json.set-dotnetcoresample.Pages.Pages_Privacy.Json.set9
+Html.get-dotnetcoresample.Pages.Pages_Privacy.Html.get9
+Html.set-dotnetcoresample.Pages.Pages_Privacy.Html.setA
+ViewData.get1dotnetcoresample.Pages.Pages_Privacy.ViewData.getA
+ViewData.set1dotnetcoresample.Pages.Pages_Privacy.ViewData.set;
+	Model.get.dotnetcoresample.Pages.Pages_Privacy.Model.get;
+	Model.set.dotnetcoresample.Pages.Pages_Privacy.Model.set

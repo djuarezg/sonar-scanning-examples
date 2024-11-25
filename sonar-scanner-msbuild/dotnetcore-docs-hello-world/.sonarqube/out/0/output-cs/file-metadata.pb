@@ -1,0 +1,9 @@
+}
+r/home/daniel.juarez/Development/dotnetcore-docs-hello-world/obj/Debug/net8.0/dotnetcoresample.RazorAssemblyInfo.csutf-8x
+m/home/daniel.juarez/Development/dotnetcore-docs-hello-world/obj/Debug/net8.0/dotnetcoresample.AssemblyInfo.csutf-8†
+{/home/daniel.juarez/Development/dotnetcore-docs-hello-world/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8\
+S/home/daniel.juarez/Development/dotnetcore-docs-hello-world/Pages/Privacy.cshtml.csutf-8z
+o/home/daniel.juarez/Development/dotnetcore-docs-hello-world/obj/Debug/net8.0/dotnetcoresample.GlobalUsings.g.csutf-8O
+F/home/daniel.juarez/Development/dotnetcore-docs-hello-world/Program.csutf-8Z
+Q/home/daniel.juarez/Development/dotnetcore-docs-hello-world/Pages/Index.cshtml.csutf-8Z
+Q/home/daniel.juarez/Development/dotnetcore-docs-hello-world/Pages/Error.cshtml.csutf-8

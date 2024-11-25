@@ -1,0 +1,6 @@
+ã
+!dotnetcoresample.Pages.IndexModel-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectÌ
+SIndexModel(Microsoft.Extensions.Logging.ILogger<dotnetcoresample.Pages.IndexModel>)udotnetcoresample.Pages.IndexModel.IndexModel(Microsoft.Extensions.Logging.ILogger<dotnetcoresample.Pages.IndexModel>)4
+OnGet())dotnetcoresample.Pages.IndexModel.OnGet()@
+OSVersion.get/dotnetcoresample.Pages.IndexModel.OSVersion.get@
+OSVersion.set/dotnetcoresample.Pages.IndexModel.OSVersion.set
