@@ -3,7 +3,7 @@ node {
     checkout scm
   }
   stage('SonarQube Analysis') {
-    def scannerHome = tool 'SonarScanner for .NETold'
+    def scannerHome = tool 'SonarScanner for .NET2'
 
     withCredentials([string(credentialsId: 'SONAR_AUTH_TOKEN', variable: 'SONAR_AUTH_TOKEN')]) {
       withSonarQubeEnv('sonarqube-10.7') {
